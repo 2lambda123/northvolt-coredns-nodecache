@@ -7,7 +7,7 @@ require (
 	github.com/coredns/coredns v1.9.0
 	github.com/coreos/go-iptables v0.6.0
 	github.com/vishvananda/netlink v1.1.0
-	golang.org/x/sys v0.0.0-20220207234003-57398862261d
+	golang.org/x/sys v0.1.0
 )
 
 require (
